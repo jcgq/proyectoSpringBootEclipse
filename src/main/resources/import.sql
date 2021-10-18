@@ -4,3 +4,9 @@ INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Elva', 'Ginazo
 INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Aitor', 'Menta', 'aitor@gmail.com','1970-01-18');
 INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Marina', 'Lasaña', 'inloveconesenombre@gmail.com','2008-09-12');
 INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Elver', 'Galarga', 'quesada@gmail.com','1978-11-11');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Cara', 'Melo', 'profevresor@gmail.com','1999-05-02');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Sachi', 'Papa', 'suvfdso@gmail.com','1980-08-30');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('María', 'Patiño', 'vaw@gmail.com','2001-12-24');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Lydia', 'Lozano', 'aitvrewor@gmail.com','1970-01-18');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Belén', 'Esteban', 'ivfnloveconesenombre@gmail.com','2008-09-12');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Kiko', 'Matamoros', 'quesewrfada@gmail.com','1978-11-11');
